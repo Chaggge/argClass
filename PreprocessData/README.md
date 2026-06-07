@@ -55,6 +55,7 @@ parsed_data = [parseData(data) for data in data_collection]
 # Обработка пропусков и сортировка колонок
 parsed_data = [[x.fillna('NaN') for x in d] for d in parsed_data]
 parsed_data = [[x[np.sort(x.keys())] for x in d] for d in parsed_data]
+```
 
 ## Выходные данные
 

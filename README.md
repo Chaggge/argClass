@@ -4,7 +4,7 @@
 
 ## Структура
 ArgClass   
-├── PreprocessData/ Парсинг JSON → CSV 
-├── BERT/ Классификация BERT-моделями   
-├── LLM/ Классификация LLM (few-shot промптинг)   
+├── PreprocessData/ Парсинг JSON → CSV    
+├── BERT/ Классификация BERT-моделями       
+├── LLM/ Классификация LLM (few-shot промптинг)     
   

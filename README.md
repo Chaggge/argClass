@@ -8,3 +8,5 @@ ArgClass
 ├── BERT/ Классификация BERT-моделями       
 ├── LLM/ Классификация LLM (few-shot промптинг)     
   
+## Данные
+Данные доступны на платформе: [uniserv.iis.nsk.su/arg](https://uniserv.iis.nsk.su/arg)
